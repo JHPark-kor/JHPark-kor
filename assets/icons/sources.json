@@ -1,0 +1,14 @@
+{
+  "python": "Copied from JHPark-kor/ai-study/assets/readme/tools/python.svg",
+  "postgresql": "Copied from JHPark-kor/ai-study/assets/readme/tools/postgresql.svg",
+  "geopandas": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geopandas.svg",
+  "pandas": "https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg",
+  "numpy": "https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg",
+  "mysql": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
+  "codex": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex.svg",
+  "oracle": "https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg",
+  "scipy": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg",
+  "scikit-learn": "https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg",
+  "matplotlib": "https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg",
+  "seaborn": "https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg"
+}
