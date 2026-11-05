@@ -4,6 +4,8 @@
 
 <br />
 
+<h1 align="center">박중현</h1>
+
 <blockquote>
   <p align="center">
     <em>사람들의 선택과 행동이 왜 일어났는지를 묻고,<br />
