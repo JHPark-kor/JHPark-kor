@@ -4,23 +4,21 @@
 
 <br />
 
-<h1 align="center">박중현</h1>
-
 <blockquote>
-  <p align="center">
-    <em>사람들의 선택과 행동이 왜 일어났는지를 묻고,<br />
-    데이터를 통해 그 이유와 더 나은 선택을 만드는 일에 관심이 있습니다.</em>
-  </p>
+  <h3 align="center">
+    사람들의 선택과 행동이 왜 일어났는지를 묻고,<br />
+    데이터를 통해 그 이유와 더 나은 선택을 만드는 일에 관심이 있습니다.
+  </h3>
 </blockquote>
 
 ## About
 
-안녕하세요, 데이터로 문제를 발견하고 원인을 탐구하는 **박중현**입니다.
+안녕하세요, **데이터 분석가**를 꿈꾸는 **박중현**입니다.
 
-- **연세대학교** 신학과·철학과 졸업
-- 데이터 분석·데이터 마케팅·그로스 마케팅 분야에 관심이 있습니다.
-- 최근에는 **Agent AI 기반 업무 자동화**와 **통계적 인과추론**에 관심을 두고 있습니다.
-- 분석에서 얻은 인사이트를 **더 나은 의사결정과 해결책**으로 연결하고 싶습니다.
+- Theology, Yonsei University
+- 프로젝트에 참여해 **데이터를 수집·전처리·분석하고 결과를 쉽게 설명**하는 경험을 쌓아왔습니다.
+- 앱 로그 데이터 분석, OTT 이후의 영화 산업, 저소득층의 문화소비 저조 원인 분석 프로젝트를 진행하고 있습니다.
+- 최근에는 Agent AI를 활용해 단순 반복 업무를 효율적으로 처리하는 워크플로우와 앱을 설계하는 데 관심이 있습니다.
 
 <br />
 
@@ -82,8 +80,8 @@
 <table>
   <thead>
     <tr>
-      <th>활동</th>
-      <th>주요 내용</th>
+      <th width="280">활동</th>
+      <th width="480">주요 내용</th>
     </tr>
   </thead>
   <tbody>
@@ -92,16 +90,20 @@
       <td>알고리즘 원리 학습 · 논문 및 사례 리뷰 · 데이터 분석 미니 프로젝트</td>
     </tr>
     <tr>
-      <td>연세대학교 KUSA</td>
-      <td>봉사활동 · 환경정화 · 안전 캠페인 참여</td>
+      <td>하이테커 × ORACLE<br />데이터 분석 프로젝트</td>
+      <td>문화누리카드 사업의 문제점 발굴 · 기초예술 소비 저조 원인 데이터 분석</td>
+    </tr>
+    <tr>
+      <td>죽이야기 마케팅잡 프로젝트 3기</td>
+      <td>식품 산업 트렌드 조사 · 고객 리뷰 스크래핑·텍스트 분석 · 마케팅 전략 기획</td>
     </tr>
     <tr>
       <td>코멘토 데이터 마케팅 부트캠프</td>
-      <td>데이터 분석 · 마케팅 기획 학습</td>
+      <td>2030 소비 트렌드 분석 · 카드 상품 기획 · 채널 마케팅 전략 기획</td>
     </tr>
     <tr>
-      <td>고용노동부 × 죽이야기 마케팅잡 프로젝트 3기</td>
-      <td>브랜드 마케팅 기획</td>
+      <td>연세대학교 KUSA</td>
+      <td>중앙 봉사 동아리 회장 역임 · 봉사 프로그램 기획·운영 · 환경정화·안전 캠페인</td>
     </tr>
   </tbody>
 </table>
@@ -110,37 +112,59 @@
 
 ## Certifications & Awards
 
-| 구분 | 항목 | 취득·수상 연도 |
-| :--- | :--- | :---: |
-| 자격증 | ADsP (데이터분석 준전문가) | 2026 |
-| 자격증 | SQLD (SQL 개발자) | 2026 |
-| 어학 | OPIc AL | 2025 |
-| 자격증 | 빅데이터분석기사 | 2026 |
-| 수상 | 한경닷컴 × 고용노동부 마케팅잡 3기 장려상 | 2025 |
-
-<br />
-
-## Contact
-
 <table>
+  <thead>
+    <tr>
+      <th width="80">구분</th>
+      <th width="470">항목</th>
+      <th width="180">연도</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <td><strong>Mail</strong></td>
-      <td><a href="mailto:yonsei201717@naver.com">yonsei201717@naver.com</a><br /><a href="mailto:pjh9804119@gmail.com">pjh9804119@gmail.com</a></td>
+      <td rowspan="3" valign="top"><strong>자격증</strong></td>
+      <td>ADsP (데이터분석 준전문가)</td>
+      <td align="center">2026</td>
     </tr>
     <tr>
-      <td><strong>Phone</strong></td>
-      <td><a href="tel:+821084890830">010-8489-0830</a></td>
+      <td>SQLD (SQL 개발자)</td>
+      <td align="center">2026</td>
+    </tr>
+    <tr>
+      <td>빅데이터분석기사</td>
+      <td align="center">2026</td>
+    </tr>
+    <tr>
+      <td><strong>어학</strong></td>
+      <td>OPIc AL</td>
+      <td align="center">2025</td>
+    </tr>
+    <tr>
+      <td rowspan="4" valign="top"><strong>수상</strong></td>
+      <td>연세대학교 성적 최우등상</td>
+      <td align="center">2018</td>
+    </tr>
+    <tr>
+      <td>연세대학교 성적 우수상</td>
+      <td align="center">2020</td>
+    </tr>
+    <tr>
+      <td>한경닷컴 × 고용노동부 마케팅잡 프로젝트 3기 장려상</td>
+      <td align="center">2025</td>
+    </tr>
+    <tr>
+      <td>연세대학교 성적 장학금 (진리 장학금)</td>
+      <td align="center">2018 · 2019 · 2020 · 2021</td>
     </tr>
   </tbody>
 </table>
 
 <br />
 
-## Git animals
+## Contact
 
-<p align="center">
-  <a href="https://www.gitanimals.org/">
-    <img src="https://render.gitanimals.org/lines/JHPark-kor" width="600" height="120" alt="JHPark-kor의 GitAnimals — GitHub 활동과 함께 성장하는 펫" />
-  </a>
+<p>
+  <a href="mailto:yonsei201717@naver.com"><img src="assets/contact/naver.svg" height="26" alt="Naver Mail: yonsei201717@naver.com" /></a>&nbsp;
+  <a href="mailto:pjh9804119@gmail.com"><img src="assets/contact/gmail.svg" height="26" alt="Gmail: pjh9804119@gmail.com" /></a>&nbsp;
+  <a href="tel:+821084890830"><img src="assets/contact/phone.svg" height="26" alt="Phone: 010-8489-0830" /></a>
 </p>
