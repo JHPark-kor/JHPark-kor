@@ -2,8 +2,6 @@
   <img src="assets/banner.gif" width="100%" alt="JHPark-kor Data Quest — Aspiring Data Analyst" />
 </div>
 
-<br />
-
 <h3 align="center">안녕하세요, 성장하는 데이터 분석가 박중현입니다.</h3>
 
 <p align="center">
@@ -13,22 +11,41 @@
 
 ## About
 
-- Theology · Philosophy, Yonsei University
+Theology · Philosophy, Yonsei University
 
-- **배우는 것을 즐깁니다.**<br />
-  새로운 지식, 기술의 변화, 산업 트렌드를 찾고, 활용하고, 분석합니다.
+- **배우는 것을 즐깁니다.**<br />새로운 지식과 기술, 산업 트렌드를 살피고 프로젝트에 활용합니다.
 
-- **문제의 원인을 찾고 해결책을 제시하는 것에 관심이 많습니다.**<br />
-  상관관계를 넘어, 핵심 인과관계를 찾기 위해 고민하고 또 실험합니다.
+- **문제의 원인을 찾고 해결책을 제시하는 데 관심이 많습니다.**<br />상관관계를 넘어 핵심 인과관계를 찾기 위해 고민하고 실험합니다.
 
-- **프로젝트에서 데이터 분석을 맡아왔습니다.**<br />
-  데이터를 수집·전처리·분석하고, 분석 결과를 이해하기 쉽게 정리하고 설명하는 데에 자신 있습니다.
+- **여러 프로젝트에서 데이터 분석을 맡아왔습니다.**<br />데이터 수집·전처리·분석과 그 결과를 이해하기 쉽게 전달하는 데 자신 있습니다.
 
-- **현재 진행 중인 프로젝트는**<br />
-  앱 로그 데이터 분석, OTT 이후 영화 산업의 변화 분석, 저소득층의 문화소비가 저조한 원인 분석입니다.
+- **현재 세 가지 분석 프로젝트를 진행하고 있습니다.**<br />앱 로그, OTT 이후 영화 산업의 변화, 저소득층의 문화소비 저조 원인을 분석합니다.
 
-- **최근에는 Agent AI를 활용한 업무 자동화에 관심이 있습니다.**<br />
-  반복 작업을 효율적으로 수행하는 워크플로우와 앱을 설계하고 있습니다.
+- **Agent AI를 활용한 업무 자동화에 관심이 있습니다.**<br />반복 작업을 자동화하는 워크플로우와 앱을 설계하고 있습니다.
+
+<br />
+
+## Projects
+
+<table>
+  <thead>
+    <tr>
+      <th width="160">프로젝트명</th>
+      <th width="270">프로젝트 소개</th>
+      <th width="230">결과물</th>
+      <th width="170">역할</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top"><a href="https://github.com/JHPark-kor/Culture-Gap-Analysis"><strong>문화예술 이용·접근성 분석</strong></a></td>
+      <td valign="top">기초문화예술 관람의향 관련 요인 분석<br />서울시 고령층의 문화 접근 취약권역 분석</td>
+      <td align="center" valign="top"><a href="assets/projects/culture-accessibility.png"><img src="assets/projects/culture-accessibility.png" width="230" alt="서울시 고령층 문화 이용 취약권역 대시보드 실제 화면" /></a><br />
+        <a href="https://jhpark-kor.github.io/CULTURE_GAP/">대시보드 보기</a></td>
+      <td valign="top"><strong>팀장 · 분석 기획</strong><br />문제 정의 · 원인 분석<br />프로젝트 총괄</td>
+    </tr>
+  </tbody>
+</table>
 
 <br />
 
@@ -55,30 +72,6 @@
     <tr>
       <td width="125"><strong>Agent AI</strong></td>
       <td><img src="assets/badges/codex.svg" height="22" alt="Codex" /></td>
-    </tr>
-  </tbody>
-</table>
-
-<br />
-
-## Projects
-
-<table>
-  <thead>
-    <tr>
-      <th width="160">프로젝트명</th>
-      <th width="270">프로젝트 소개</th>
-      <th width="230">결과물</th>
-      <th width="170">역할</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top"><a href="https://github.com/JHPark-kor/Culture-Gap-Analysis"><strong>문화예술 이용·접근성 분석</strong></a></td>
-      <td valign="top">기초문화예술 관람의향의 관련 요인과 서울시 고령층의 문화 접근 취약권역을 분석한 프로젝트입니다.</td>
-      <td align="center" valign="top"><a href="assets/projects/culture-accessibility.png"><img src="assets/projects/culture-accessibility.png" width="230" alt="서울시 고령층 문화 이용 취약권역 대시보드 실제 화면" /></a><br />
-        <a href="https://jhpark-kor.github.io/CULTURE_GAP/">대시보드 보기</a></td>
-      <td valign="top"><strong>팀장 · 분석 기획</strong><br />문제 정의 · 원인 분석<br />프로젝트 총괄</td>
     </tr>
   </tbody>
 </table>
