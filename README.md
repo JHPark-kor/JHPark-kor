@@ -169,5 +169,4 @@ Theology · Philosophy, Yonsei University
 <p>
   <a href="mailto:yonsei201717@naver.com"><img src="assets/contact/naver.svg" height="26" alt="Naver Mail: yonsei201717@naver.com" /></a>&nbsp;
   <a href="mailto:pjh9804119@gmail.com"><img src="assets/contact/gmail.svg" height="26" alt="Gmail: pjh9804119@gmail.com" /></a>&nbsp;
-  <a href="tel:+821084890830"><img src="assets/contact/phone.svg" height="26" alt="Phone: 010-8489-0830" /></a>
 </p>
