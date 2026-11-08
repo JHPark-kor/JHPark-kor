@@ -25,7 +25,7 @@ Theology · Philosophy, Yonsei University
 
 <br />
 
-## Projects
+## Projects(수정 중이에요)
 
 <table>
   <thead>
@@ -78,7 +78,7 @@ Theology · Philosophy, Yonsei University
 
 <br />
 
-## Participations
+## Participations(바로가기 링크는 준비 중이에요)
 
 <table>
   <thead>
